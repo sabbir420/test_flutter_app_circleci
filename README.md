@@ -1,5 +1,5 @@
 # test_flutter_app_circleci
-A project on operationalizing a Machine Learning Microservice API
+A test project on Flutter and CircleCI
 
 [![CircleCI](https://circleci.com/gh/sabbir420/test_flutter_app_circleci.svg?style=svg)](https://app.circleci.com/pipelines/github/sabbir420/test_flutter_app_circleci)
 
